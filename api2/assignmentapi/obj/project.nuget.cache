@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "r9ZeAo+idhs7m/oY5q6LR5p+5bnL81q1DAVZ9E/1w5R/vpk+63aMm3ECk7XNratU7njUeDDR86R+UcUAOC0l4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SUBHAM\\Desktop\\Angular Assignments\\Assignment2\\api2\\assignmentapi\\assignmentapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SUBHAM\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\SUBHAM\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\SUBHAM\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\SUBHAM\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
